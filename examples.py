@@ -1,3 +1,4 @@
+import burgers_equation
 #for expl
 
 #expl1
